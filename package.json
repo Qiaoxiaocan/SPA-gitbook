@@ -1,0 +1,23 @@
+{
+  "name": "SPA-gitbook",
+  "version": "1.0.0",
+  "description": "SPA富应用开发课程第五次雪梨作业，创建GitBook电子书，并实现自动化构建； ## 题材： 电影",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qiaoxiaocan/SPA-gitbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qiaoxiaocan/SPA-gitbook/issues"
+  },
+  "homepage": "https://github.com/Qiaoxiaocan/SPA-gitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
